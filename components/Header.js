@@ -20,6 +20,11 @@ export default function Header() {
               <a>Contact</a>
             </Link>
           </li>
+          <li>
+            <Link href="/lessons">
+              <a>Lessons</a>
+            </Link>
+          </li>
         </ul>
       </nav>
       
