@@ -17,13 +17,25 @@ export default function Lessons() {
       <ul>
         <div>
             1. Al-Fatiha <br></br>
-            <button onClick={() => addToPlaylist()}> Add lesson to playlist</button>
+            <button onClick={() => addToPlaylist()}> Add lesson to your playlist</button>
             <br></br>
-        </div>
-        <br></br>
-        2. Al-Baqarah <br></br>  <br></br>
-        3. Aal-Imran <br></br> <br></br>
-        4. Al-Nisa <br></br> <br></br>
+        </div><br></br>
+        <div>
+            2. Al-Baqarah <br></br>
+            <button onClick={() => addToPlaylist()}> Add lesson to your playlist</button>
+            <br></br>
+        </div><br></br>
+        <div>
+            3. Aal-Imran <br></br>
+            <button onClick={() => addToPlaylist()}> Add lesson to your playlist</button>
+            <br></br>
+        </div><br></br>
+        <div>
+           4. Al-Nisa <br></br>
+            <button onClick={() => addToPlaylist()}> Add lesson to your playlist</button>
+            <br></br>
+        </div><br></br>
+       
       </ul>
      
     </Page>
