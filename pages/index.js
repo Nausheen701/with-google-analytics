@@ -8,7 +8,6 @@ const addToCart = () => {
     category: "ecommerce", 
     label: "Item added", 
     value: "Lessons"
-
   })
 }
 
