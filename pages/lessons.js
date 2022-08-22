@@ -8,9 +8,9 @@ export default function Lessons() {
             category: "elearning",
             label: "Item added",
             value: "Lessons"
-
         })
     }
+    
   return (
     <Page>
       <h1>Lessons coming soon</h1>
